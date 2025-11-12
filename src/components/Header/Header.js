@@ -24,8 +24,7 @@ const Header = ({ setCoords }) => {
           setCoords({ lat, lng });
           setQuery(''); // Clear search bar after search
         }
-      })
-      .catch((err) => console.error(err));
+      });// .catch((err) => console.error(err)); // It's good practice to handle errors.
   };
   const handleKeyPress = (e) => {
     if (e.key === 'Enter') {
