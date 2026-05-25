@@ -137,6 +137,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Made with ❤️ — feel free to connect and share feedback!
+Developed by Aryan Singh
 
 ⭐ **If you found this project helpful, please give it a star!**
