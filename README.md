@@ -49,7 +49,7 @@ Travel Advisor is an interactive travel discovery app that leverages live geoloc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/travel-advisor.git
+   git clone https://github.com/singh-aryan-dev/travel-advisor.git
    cd travel-advisor
    ```
 
